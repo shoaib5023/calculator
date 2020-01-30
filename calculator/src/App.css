@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: burlywood;
+  flex-direction: column;
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.A1 {
+  font-size: 20px;
+
+}
+
+.Bpp{
+  align-content: flex-start;
+  /* background-blend-mode: overlay; */
+  align-self: flex-end;
+}
+.Bpp1{
+ background-color: lawngreen;
+}
+
+.b{
+  text-align: center;
+  color:cornsilk;
+  background-color:brown;
+}
+
+.c{
+  text-align: center;
+  color:cornsilk;
+  background-color:darkkhaki;
+}
+
+
