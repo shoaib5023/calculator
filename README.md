@@ -6,6 +6,8 @@ Clone my Repository using below link:
 
 ## git clone https://github.com/Shoaibfy/calculator/
 
+Install npm using cammand.
+
 ## npm install
 
 To start App
