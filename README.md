@@ -3,8 +3,8 @@ A sample page using react to display the count &amp; price of products.
 
 Requirments:
 
-# npm install
+## npm install
 
 To start App
 
-#npm start
+## npm start
