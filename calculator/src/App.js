@@ -14,8 +14,10 @@ class Cart extends Component{
     // this.Minusone = this.Minusone.bind(this);
     // this.Takequantity = this.Takequantity.bind(this);
   }
-  confirm=(id)=>{
-    confirm:id,
+  confirm=()=>{
+    this.setState({
+      confirm
+    })
   }
 
 
